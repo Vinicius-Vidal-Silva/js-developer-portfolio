@@ -47,7 +47,18 @@
   ],
 
   "education":[
-
+    {
+      "name": "FATEC - Graduação en Análise e Desenvolvimento de Sistemas",
+      "period": "2023 - Atualmente"
+    },
+    {
+      "name": "Google Data Analytics",
+      "period": "2023"
+    },
+    {
+      "name": "Cisco Networking Academy - IT Essentials",
+      "period": "2023"
+    }
   ],
 
   "portfolio": [

@@ -45,15 +45,25 @@
     "Português BR",
     "Inglês (Avançado) -TOEIC B1/B2"
   ],
+
+  "education":[
+
+  ],
+
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Clone do BuzzFedd criado com angular",
+      "url": "https://github.com/Vinicius-Vidal-Silva/angular-clone-BuzzFeed",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Blog simples criado com angular",
+      "url": "https://github.com/Vinicius-Vidal-Silva/angular-blog",
+      "github": true
+    },
+    {
+      "name": "Pokedex criado com JavaScript usando a PokeAPI",
+      "url": "https://github.com/Vinicius-Vidal-Silva/JavaScript-Pokedex",
       "github": true
     }
   ],

@@ -30,6 +30,10 @@
       {
         "name": "PHP",
         "logo": "https://raw.githubusercontent.com/Vinicius-Vidal-Silva/js-developer-portfolio/main/data/imgs/php.png"
+      },
+      {
+        "name": "C",
+        "logo": "https://raw.githubusercontent.com/Vinicius-Vidal-Silva/JavaScript-portf-lio/main/Imagens/ferramentas/C.png"
       }
     ],
     "softSkills": [

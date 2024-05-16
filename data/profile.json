@@ -20,6 +20,10 @@
         "logo": "https://raw.githubusercontent.com/Vinicius-Vidal-Silva/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/Vinicius-Vidal-Silva/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
         "name": "Angular",
         "logo": "https://raw.githubusercontent.com/Vinicius-Vidal-Silva/js-developer-portfolio/main/data/imgs/angular.png"
       },
@@ -60,6 +64,18 @@
       "period": "2023"
     },
     {
+      "name": "Python Data Analytics",
+      "period": "2024"
+    },
+    {
+      "name": "Imersão Python: Do excel à análise de dados",
+      "period": "2024"
+    },
+    {
+      "name": "Microsoft Azure AI Fundamentals",
+      "period": "2024"
+    },
+    {
       "name": "Cisco Networking Academy - IT Essentials",
       "period": "2023"
     },
@@ -91,6 +107,11 @@
     }
   ],
   "professionalExperience": [
+    {
+      "name": "Estágio em Análise de dados",
+      "period": "2022 - 2023",
+      "description": "Atuei na análise de dados para o monitoramento da qualidade da água em rios e reservatórios do estado de São Paulo. Utilizei linguagens como R e Python, além de ferramentas como Excel e Power BI, para coletar, limpar e analisar dados brutos. Colaborei na elaboração do “Relatório de Qualidade de Águas Superficiais” para 2021 e 2022, apresentando resultados e recomendações para a gestão hídrica."
+    },
     {
       "name": "Auxiliar administrativo",
       "period": "2019 - 2021",
